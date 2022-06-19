@@ -1,6 +1,6 @@
 # NickelFoxTask
--Shows list of videos from the YouTube API with pagination and when we press on any of the videos, we'll redirect to the YouTube app and play the selected video.
--Internet check implemented.
+Shows list of videos from the YouTube API with pagination and when we press on any of the videos, we'll redirect to the YouTube app and play the selected video.
+Internet check implemented.
 
 Architectural components
 1. Hilt
